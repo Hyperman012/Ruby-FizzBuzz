@@ -7,7 +7,7 @@ PLATFORMS
   arm64-darwin-21
 
 DEPENDENCIES
-  minitest (~> 5.16.0)
+  minitest
 
 BUNDLED WITH
    2.3.22
